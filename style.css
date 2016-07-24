@@ -1,0 +1,13 @@
+body {
+  background-color: mediumaquamarine;
+  font-family: monospace;
+}
+
+.header_shiz {
+  color: #3F3FBF;
+  font-weight: bolder;
+}
+
+.total_number {
+  color: mediumaquamarine;
+}
